@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Exchange Rate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE62A0A7-AABE-ADAE-7769-0BD1F6E82DCB}|Exchange Rate\\Exchange Rate.csproj|c:\\users\\user\\source\\repos\\exchange rate\\exchange rate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE62A0A7-AABE-ADAE-7769-0BD1F6E82DCB}|Exchange Rate\\Exchange Rate.csproj|solutionrelative:exchange rate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE62A0A7-AABE-ADAE-7769-0BD1F6E82DCB}|Exchange Rate\\Exchange Rate.csproj|C:\\Users\\User\\source\\repos\\Exchange Rate\\exchange rate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE62A0A7-AABE-ADAE-7769-0BD1F6E82DCB}|Exchange Rate\\Exchange Rate.csproj|solutionrelative:exchange rate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90EEB4E7-5B5A-0900-E29B-608ABE440F3F}|Message Exchange Rate\\Message Exchange Rate.csproj|c:\\users\\user\\source\\repos\\exchange rate\\message exchange rate\\exchange_rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90EEB4E7-5B5A-0900-E29B-608ABE440F3F}|Message Exchange Rate\\Message Exchange Rate.csproj|solutionrelative:message exchange rate\\exchange_rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97614C8E-E160-C49B-C86C-A546DC5E1250}|\u0421urrencies\\\u0421urrencies.csproj|c:\\users\\user\\source\\repos\\exchange rate\\\u0441urrencies\\\u0441urrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97614C8E-E160-C49B-C86C-A546DC5E1250}|\u0421urrencies\\\u0421urrencies.csproj|solutionrelative:\u0441urrencies\\\u0441urrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8938B36-AD0F-4DA4-8E3A-C5FD798D2020}|Exchange Rate\\Exchange Rate.csproj|C:\\Users\\User\\source\\repos\\Exchange Rate\\exchange rate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8938B36-AD0F-4DA4-8E3A-C5FD798D2020}|Exchange Rate\\Exchange Rate.csproj|solutionrelative:exchange rate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Exchange Rate\\Form1.cs",
+              "RelativeDocumentMoniker": "Exchange Rate\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Exchange Rate\\Form1.cs [Design]",
+              "RelativeToolTip": "Exchange Rate\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T13:10:13.669Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exchange_Rate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Message Exchange Rate\\Exchange_Rate.cs",
+              "RelativeDocumentMoniker": "Message Exchange Rate\\Exchange_Rate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Message Exchange Rate\\Exchange_Rate.cs",
+              "RelativeToolTip": "Message Exchange Rate\\Exchange_Rate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T12:17:14.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u0421urrencies.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exchange Rate\\\u0421urrencies\\\u0421urrencies.cs",
+              "RelativeDocumentMoniker": "\u0421urrencies\\\u0421urrencies.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Exchange Rate\\\u0421urrencies\\\u0421urrencies.cs",
+              "RelativeToolTip": "\u0421urrencies\\\u0421urrencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T11:45:45.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Exchange Rate\\Form1.cs",
+              "RelativeDocumentMoniker": "Exchange Rate\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Exchange Rate\\Form1.cs",
+              "RelativeToolTip": "Exchange Rate\\Form1.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowH0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T11:44:49.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Exchange Rate\\Form1.cs",
+              "RelativeDocumentMoniker": "Exchange Rate\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Exchange Rate\\Form1.cs [Design]",
+              "RelativeToolTip": "Exchange Rate\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T11:27:39.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

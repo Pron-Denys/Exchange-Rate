@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Exchange Rate [Server]/1.0.0": {
+        "dependencies": {
+          "Exchange_Rate": "1.0.0",
+          "Сurrencies": "1.0.0"
+        },
+        "runtime": {
+          "Exchange Rate [Server].dll": {}
+        }
+      },
+      "Exchange_Rate/1.0.0": {
+        "dependencies": {
+          "Сurrencies": "1.0.0"
+        },
+        "runtime": {
+          "Exchange_Rate.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Сurrencies/1.0.0": {
+        "runtime": {
+          "Сurrencies.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exchange Rate [Server]/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exchange_Rate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Сurrencies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

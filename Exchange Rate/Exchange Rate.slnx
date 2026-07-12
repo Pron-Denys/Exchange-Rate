@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Exchange Rate/Exchange Rate.csproj" />
+  <Project Path="Message Exchange Rate/Message Exchange Rate.csproj" />
+  <Project Path="Сurrencies/Сurrencies.csproj" />
+</Solution>
