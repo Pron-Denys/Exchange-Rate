@@ -13,3 +13,19 @@ C:\Users\User\source\repos\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0
 C:\Users\User\source\repos\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\refint\Message Exchange Rate.dll
 C:\Users\User\source\repos\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\Message Exchange Rate.pdb
 C:\Users\User\source\repos\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\ref\Message Exchange Rate.dll
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\bin\Debug\net10.0\Message Exchange Rate.deps.json
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\bin\Debug\net10.0\Message Exchange Rate.dll
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\bin\Debug\net10.0\Message Exchange Rate.pdb
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\bin\Debug\net10.0\Сurrencies.dll
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\bin\Debug\net10.0\Сurrencies.pdb
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\Message Exchange Rate.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\Message Exchange Rate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\Message Exchange Rate.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\Message Exchange Rate.AssemblyInfo.cs
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\Message Exchange Rate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\Message Exchange Rate.sourcelink.json
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\Message .92A324EC.Up2Date
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\Message Exchange Rate.dll
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\refint\Message Exchange Rate.dll
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\Message Exchange Rate.pdb
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Message Exchange Rate\obj\Debug\net10.0\ref\Message Exchange Rate.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Exchange Rate\\Message Exchange Rate\\Message Exchange Rate.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Message Exchange Rate\\Message Exchange Rate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Exchange Rate\\Message Exchange Rate\\Message Exchange Rate.csproj": {
+    "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Message Exchange Rate\\Message Exchange Rate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Message Exchange Rate\\Message Exchange Rate.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Message Exchange Rate\\Message Exchange Rate.csproj",
         "projectName": "Message Exchange Rate",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Message Exchange Rate\\Message Exchange Rate.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Message Exchange Rate\\Message Exchange Rate.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Message Exchange Rate\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Message Exchange Rate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\Exchange Rate\\Сurrencies\\Сurrencies.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Сurrencies\\Сurrencies.csproj"
+              "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Сurrencies\\Сurrencies.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Сurrencies\\Сurrencies.csproj"
               }
             }
           }
@@ -349,14 +349,14 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\Exchange Rate\\Сurrencies\\Сurrencies.csproj": {
+    "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Сurrencies\\Сurrencies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Сurrencies\\Сurrencies.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Сurrencies\\Сurrencies.csproj",
         "projectName": "Сurrencies",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Сurrencies\\Сurrencies.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Сurrencies\\Сurrencies.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Сurrencies\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Сurrencies\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

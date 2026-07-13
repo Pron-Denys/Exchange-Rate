@@ -20,3 +20,26 @@ C:\Users\User\source\repos\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows
 C:\Users\User\source\repos\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\ref\Exchange Rate.dll
 C:\Users\User\source\repos\Exchange Rate\Exchange Rate\bin\Debug\net10.0-windows\Message Exchange Rate.dll
 C:\Users\User\source\repos\Exchange Rate\Exchange Rate\bin\Debug\net10.0-windows\Message Exchange Rate.pdb
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\bin\Debug\net10.0-windows\Exchange Rate.exe
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\bin\Debug\net10.0-windows\Exchange Rate.deps.json
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\bin\Debug\net10.0-windows\Exchange Rate.runtimeconfig.json
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\bin\Debug\net10.0-windows\Exchange Rate.dll
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\bin\Debug\net10.0-windows\Exchange Rate.pdb
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\bin\Debug\net10.0-windows\Message Exchange Rate.dll
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\bin\Debug\net10.0-windows\Сurrencies.dll
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\bin\Debug\net10.0-windows\Message Exchange Rate.pdb
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\bin\Debug\net10.0-windows\Сurrencies.pdb
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\Exchange Rate.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\Exchange_Rate.Form1.resources
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\Exchange Rate.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\Exchange Rate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\Exchange Rate.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\Exchange Rate.AssemblyInfo.cs
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\Exchange Rate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\Exchange Rate.sourcelink.json
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\Exchange.C61B92D1.Up2Date
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\Exchange Rate.dll
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\refint\Exchange Rate.dll
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\Exchange Rate.pdb
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\Exchange Rate.genruntimeconfig.cache
+C:\Users\User\source\repos\Exchange Rate Project\Exchange Rate\Exchange Rate\obj\Debug\net10.0-windows\ref\Exchange Rate.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Message Exchange Rate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72a7b284639a419422ad6e9121c5c70e7bc5374a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Message Exchange Rate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Message Exchange Rate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

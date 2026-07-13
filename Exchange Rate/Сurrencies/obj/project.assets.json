@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Сurrencies\\Сurrencies.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Сurrencies\\Сurrencies.csproj",
       "projectName": "Сurrencies",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Сurrencies\\Сurrencies.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Сurrencies\\Сurrencies.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Exchange Rate\\Сurrencies\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate\\Сurrencies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

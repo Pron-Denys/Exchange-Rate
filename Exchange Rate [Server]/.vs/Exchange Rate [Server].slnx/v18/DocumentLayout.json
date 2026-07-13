@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Exchange Rate [Server]\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate [Server]\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE64EDE7-0B78-B796-39DB-6C05017ED3D7}|Exchange Rate [Server]\\Exchange Rate [Server].csproj|c:\\users\\user\\source\\repos\\exchange rate [server]\\exchange rate [server]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE64EDE7-0B78-B796-39DB-6C05017ED3D7}|Exchange Rate [Server]\\Exchange Rate [Server].csproj|c:\\users\\user\\source\\repos\\exchange rate project\\exchange rate [server]\\exchange rate [server]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE64EDE7-0B78-B796-39DB-6C05017ED3D7}|Exchange Rate [Server]\\Exchange Rate [Server].csproj|solutionrelative:exchange rate [server]\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97614C8E-E160-C49B-C86C-A546DC5E1250}|\u0421urrencies\\\u0421urrencies.csproj|c:\\users\\user\\source\\repos\\exchange rate [server]\\\u0441urrencies\\\u0441urrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97614C8E-E160-C49B-C86C-A546DC5E1250}|\u0421urrencies\\\u0421urrencies.csproj|c:\\users\\user\\source\\repos\\exchange rate project\\exchange rate [server]\\\u0441urrencies\\\u0441urrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97614C8E-E160-C49B-C86C-A546DC5E1250}|\u0421urrencies\\\u0421urrencies.csproj|solutionrelative:\u0441urrencies\\\u0441urrencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD9CC86D-6565-569A-357E-741FDA80432C}|Exchange_Rate\\Exchange_Rate.csproj|c:\\users\\user\\source\\repos\\exchange rate [server]\\exchange_rate\\exchange_rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD9CC86D-6565-569A-357E-741FDA80432C}|Exchange_Rate\\Exchange_Rate.csproj|c:\\users\\user\\source\\repos\\exchange rate project\\exchange rate [server]\\exchange_rate\\exchange_rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD9CC86D-6565-569A-357E-741FDA80432C}|Exchange_Rate\\Exchange_Rate.csproj|solutionrelative:exchange_rate\\exchange_rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -88,37 +88,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Exchange_Rate.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exchange Rate [Server]\\Exchange_Rate\\Exchange_Rate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate [Server]\\Exchange_Rate\\Exchange_Rate.cs",
               "RelativeDocumentMoniker": "Exchange_Rate\\Exchange_Rate.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Exchange Rate [Server]\\Exchange_Rate\\Exchange_Rate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate [Server]\\Exchange_Rate\\Exchange_Rate.cs",
               "RelativeToolTip": "Exchange_Rate\\Exchange_Rate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T12:58:33.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T12:58:33.709Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "\u0421urrencies.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exchange Rate [Server]\\\u0421urrencies\\\u0421urrencies.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate [Server]\\\u0421urrencies\\\u0421urrencies.cs",
               "RelativeDocumentMoniker": "\u0421urrencies\\\u0421urrencies.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Exchange Rate [Server]\\\u0421urrencies\\\u0421urrencies.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate [Server]\\\u0421urrencies\\\u0421urrencies.cs",
               "RelativeToolTip": "\u0421urrencies\\\u0421urrencies.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T12:48:42.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T12:48:42.926Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exchange Rate [Server]\\Exchange Rate [Server]\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate [Server]\\Exchange Rate [Server]\\Program.cs",
               "RelativeDocumentMoniker": "Exchange Rate [Server]\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Exchange Rate [Server]\\Exchange Rate [Server]\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Exchange Rate Project\\Exchange Rate [Server]\\Exchange Rate [Server]\\Program.cs",
               "RelativeToolTip": "Exchange Rate [Server]\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwBAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-11T12:46:45.884Z",
               "EditorCaption": ""

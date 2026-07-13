@@ -61,6 +61,8 @@
                                                 price_1 = currency.Value;
                                             if (currency.Key == exchange_rate.currency_2.ToString())
                                                 price_2 = currency.Value;
+                                            if ("UAN" == exchange_rate.currency_1.ToString())
+                                                price_1 = 1;
                                         }
                                     }
                                 }
